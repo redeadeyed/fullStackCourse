@@ -1,6 +1,2 @@
 # fullStackCourse
-homeworks from the course
-Hello
-World
-lol world
-kek mars
+Submissions for Full Stack open
